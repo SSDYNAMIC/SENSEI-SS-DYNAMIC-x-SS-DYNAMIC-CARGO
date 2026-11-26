@@ -767,7 +767,7 @@ SENSEI SS DYNAMIC x SS DYNAMIC CARGO
         }
 
         // RMB <-> MYR Live Converter
-        const EXCHANGE_RATE = 0.645;
+        const EXCHANGE_RATE = 0.69;
         function convertRMB(source) {
             const rmbInput = document.getElementById('rmbInput');
             const myrInput = document.getElementById('myrInput');
